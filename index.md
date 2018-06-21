@@ -13,4 +13,4 @@ To probe our tool, choose the respective OS to downloaded:
 You only need to open the application of Pharo doing one click. This will open the VM of Pharo with an initial Playground describing the artifact.
 
 # Video
-We provide a ![tutorial video](https://www.dropbox.com/s/iu1e9koxxssg3cq/Memory2.mp4?dl=0) of our visualization.
+We provide a [tutorial video](https://www.dropbox.com/s/iu1e9koxxssg3cq/Memory2.mp4?dl=0) of our visualization.
