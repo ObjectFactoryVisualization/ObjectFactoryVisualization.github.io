@@ -6,11 +6,11 @@ This project presents an interactive visualization of the execution context rela
 
 To probe our tool, choose the respective OS to downloaded:
 
-1. [ MacOs ](https://www.dropbox.com/s/iu1e9koxxssg3cq/Memory2.mp4?dl=0)
-1. [ Linux ](https://www.dropbox.com/s/iu1e9koxxssg3cq/Memory2.mp4?dl=0)
-1. [ Windows](https://www.dropbox.com/s/iu1e9koxxssg3cq/Memory2.mp4?dl=0)
+1. [ MacOs ](https://www.dropbox.com/s/gdlq5q0ef4uqw3k/MacOS.zip?dl=0)
+1. [ Linux ]()
+1. [ Windows]()
 
-You only need to open the application of Pharo doing one click. This will open the VM of Pharo with an initial Playground describing the artifact.
+Once downloaded, click over the Pharo application to open it. This will open the VM of Pharo with an initial Playground describing the artifact.
 
 # Video
-We provide a [tutorial video](https://www.dropbox.com/s/iu1e9koxxssg3cq/Memory2.mp4?dl=0) of our visualization.
+We provide a [tutorial video](https://www.dropbox.com/s/0modq7d9zs8qhx1/Memory.mp4?dl=0) of our visualization.
