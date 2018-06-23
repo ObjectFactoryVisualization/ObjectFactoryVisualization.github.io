@@ -2,12 +2,12 @@
 
 Welcome to object factory visualization!
 
-This project presents an interactive visualization of the execution context related to object productions. Our visualization augments the traditional calling-context tree with visual cues to characterize object factory contexts.
+This webpage contains the artifact associated to our VISSOFT 2018 paper, titled _Context Visualization of Object Factories_. Our paper is about an interactive visualization of a software execution profiling. Our visualization is designed to help developpers to identify where and how memory is consummed by an application. The visualization shows context related to object productions. Our visualization augments the traditional calling-context tree with visual cues to characterize object factory contexts.
 
 Our [ paper ](./main.pdf) is available to read.
 
 # Artifact
-To probe our tool, choose the respective OS to downloaded:
+We offer our artifact for three different platforms:
 
 1. [ MacOs ](https://www.dropbox.com/s/gdlq5q0ef4uqw3k/MacOS.zip?dl=0)
 1. [ Linux ](https://www.dropbox.com/s/f3t3yar8fjzyoev/Linux.zip?dl=0)
