@@ -4,6 +4,8 @@ Welcome to object factory visualization!
 
 This project presents an interactive visualization of the execution context related to object productions. Our visualization augments the traditional calling-context tree with visual cues to characterize object factory contexts.
 
+Our [ paper ](./main.pdf) is available to read.
+
 # Artifact
 To probe our tool, choose the respective OS to downloaded:
 
