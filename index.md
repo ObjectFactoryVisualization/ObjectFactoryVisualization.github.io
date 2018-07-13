@@ -7,11 +7,11 @@ This webpage contains the artifact associated to our VISSOFT 2018 paper, titled 
 Our [ paper ](./main.pdf) is available to read.
 
 # Artifact
-We offer our artifact for three different platforms:
+We offer our [ artifact ](http://dx.doi.org/10.5281/zenodo.1311787) for three different platforms:
 
-1. [ MacOs ](https://www.dropbox.com/s/gdlq5q0ef4uqw3k/MacOS.zip?dl=0)
-1. [ Linux ](https://www.dropbox.com/s/f3t3yar8fjzyoev/Linux.zip?dl=0)
-1. [ Windows ](https://www.dropbox.com/s/ijdyd22f21ki9tf/Windows.zip?dl=0)
+1. MacOs
+1. Linux
+1. Windows
 
 Once downloaded, click over the Pharo application to open it. This will open the VM of Pharo with an initial Playground describing the artifact. If the previous step fails, please follow the next instructions:
 
@@ -22,10 +22,14 @@ Once downloaded, click over the Pharo application to open it. This will open the
 4. The VM of Pharo with an initial Playground describing the artifact.
 
 ## Linux
-1. Open a terminal.
-2. Acces to the folder Linux.
-3. Write the following script on terminal: ./pharo
-4. The VM of Pharo with an initial Playground describing the artifact.
+1. Donwload VMLinux.zip.
+2. Access to the respective folder.
+3. Descompress the respective PharoLauncher.zip
+4. Run the pharo launcher.
+5. On the top right of the window launcher, select the third button (import).
+6. Select the option "launch an image from the file system".
+7. Select the file on /Imagen/MemoryProfiler.image
+8. The VM of Pharo with an initial Playground describing the artifact.
 
 ## Windows
 1. Open a terminal.
