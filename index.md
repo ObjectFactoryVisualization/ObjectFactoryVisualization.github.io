@@ -23,7 +23,7 @@ Once downloaded, click over the Pharo application to open it. This will open the
 
 ## Linux
 1. Download VMLinux.zip.
-2. Access to the respective folder.
+2. Access to the folder AlternativeLinux.
 3. Descompress the respective PharoLauncher.zip
 4. Run the pharo launcher.
 5. On the top right of the window launcher, select the third button (import).
