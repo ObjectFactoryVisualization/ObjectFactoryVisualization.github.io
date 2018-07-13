@@ -2,7 +2,7 @@
 
 Welcome to object factory visualization!
 
-This webpage contains the artifact associated to our VISSOFT 2018 paper, titled _Context Visualization of Object Factories_. Our paper is about an interactive visualization of a software execution profiling. Our visualization is designed to help developpers to identify where and how memory is consummed by an application. The visualization shows context related to object productions. Our visualization augments the traditional calling-context tree with visual cues to characterize object factory contexts.
+This webpage contains the artifact associated to our VISSOFT 2018 paper, titled _Context Visualization of Object Factories_. Our paper is about an interactive visualization of a software execution profiling. Our visualization is designed to help developers to identify where and how memory is consummed by an application. The visualization shows context related to object productions. Our visualization augments the traditional calling-context tree with visual cues to characterize object factory contexts.
 
 Our [ paper ](./main.pdf) is available to read.
 
@@ -22,7 +22,7 @@ Once downloaded, click over the Pharo application to open it. This will open the
 4. The VM of Pharo with an initial Playground describing the artifact.
 
 ## Linux
-1. Donwload VMLinux.zip.
+1. Download VMLinux.zip.
 2. Access to the respective folder.
 3. Descompress the respective PharoLauncher.zip
 4. Run the pharo launcher.
